@@ -1,0 +1,69 @@
+.nav a {
+  color: ##363636;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://oneworldofcolor.files.wordpress.com/2011/09/008-istanbul-skyline.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #ffe913;
+  font-size: 50px;  
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 25px;
+  color: #ffe913;
+}
+
+.learn-more {
+  background-color: #04f9cd;
+}
+
+.learn-more h3 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #3e1a96;
+}
+
+.neighborhood-guides{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2{
+    color: #7a12b4;
+    font-size: 26px;
+
+}
+
+.neighborhood-guides p{
+     font-size: 18px;
+    margin-bottom: 13px;    
+}
+
+h1, h2{
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif 
+}
